@@ -1,6 +1,10 @@
 # Niftest
 
-**TODO: Add description**
+Minimal example to observe high memory usage when benchmarking NIFs.
+
+```elixir
+NifTest.bench()
+```
 
 ## Installation
 
